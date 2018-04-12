@@ -2,16 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# 读书笔记
+# 生活
+# 学习
 
 ## [黄帝内经](huangdineijing/index.html)
 
-## [针灸大成](./huangdineijing/index.html) 
+## [针灸大成](huangdineijing/index.html) 
+#工作
