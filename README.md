@@ -1,4 +1,4 @@
-#个人记录手册
+#记录手册
 1. 使用markdown记录琐碎
 2. Node.js生成gitbook
 3. 上传gitbook到github
