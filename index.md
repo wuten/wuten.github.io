@@ -3,8 +3,7 @@
 
 # 学习
 ## [黄帝内经](/learn/huangdineijing/index.html)
-## [针灸大成](/learn/huangdineijing/index.html) 
-## [三命通会]()
+## [了凡四训](/learn/liaofansixun/index.html) 
 
 # 工作
 ## [项目管理](/work/index.html)
