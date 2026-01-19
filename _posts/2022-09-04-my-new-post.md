@@ -2,7 +2,7 @@
 layout: post
 title: jekyll just tools
 date: 2022-09-04 19:37 +0800
-categories: tools
+categories: 工具
 tags: jekyll
 ---
 
