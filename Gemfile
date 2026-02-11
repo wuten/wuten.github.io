@@ -14,3 +14,5 @@ end
 
 # 同样修改这里的 platforms
 gem "wdm", "~> 0.2.0", :platforms => [:windows]
+
+gem 'jekyll-compose', group: [:jekyll_plugins]
